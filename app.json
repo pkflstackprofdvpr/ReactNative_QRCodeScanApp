@@ -1,0 +1,17 @@
+{
+  "name": "QRCodeScanApp",
+  "displayName": "QRCodeScanApp",
+  "expo": {
+    "name": "QRCodeScanApp",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
